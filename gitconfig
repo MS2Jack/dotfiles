@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marionsantos@outlook.fr
+	name = Marion Santos
